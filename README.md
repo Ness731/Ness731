@@ -2,7 +2,7 @@
 # 🚀 SNS link 👽
 
 (아직 공사중...)
- <a href="https://twitter.com/pearl__731" target="_blank"><img src="https://img.shields.io/badge/1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+ <a href="https://twitter.com/pearl__731" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  
  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
  
