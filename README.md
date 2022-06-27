@@ -2,6 +2,7 @@
 # 🚀 SNS link 👽
 
 (아직 공사중...)
+ <a href="https://twitter.com/pearl__731" target="_blank"><img src="https://img.shields.io/badge/#1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 <!--
 **Ness731/Ness731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
