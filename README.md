@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-# 🚀 SNS link 👽
+# 🚀 SNS 👽
 
 (아직 공사중...)<br>
  <a href="https://twitter.com/pearl__731" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
