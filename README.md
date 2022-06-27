@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 # 🚀 SNS link 👽
 
+(아직 공사중...)
 <!--
 **Ness731/Ness731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
