@@ -19,8 +19,8 @@
 ## 😎 Profile 🔥
 (아직 공사중...)<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Ness731=Ness731)](https://github.com/anuraghazra/github-readme-stats)
+아 이거 왜 
 </div>
 
 
