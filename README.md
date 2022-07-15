@@ -18,6 +18,9 @@
 
 ## 😎 Profile 🔥
 (아직 공사중...)<br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ness731=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
