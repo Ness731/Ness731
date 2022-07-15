@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
+
 ## 🚀 SNS 👽
-(아직 공사중...)<br>
+(아직 공사중...)<br><br>
 
 
 ## 📚 STACKS ✏️
@@ -12,10 +14,11 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
+<br><br>
 
 ## 😎 Profile 🔥
-(아직 공사중...)<br>
+(아직 공사중...)<br><br>
+</div>
 
 
 <!--
