@@ -19,8 +19,10 @@
 ## 😎 Profile 🔥
 (아직 공사중...)<br><br>
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?Ness731=Ness731)](https://github.com/anuraghazra/github-readme-stats)
-아 이거 왜 안돼;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ness731&theme=aura)](https://github.com/Ness731/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ness731&show_icons=true&theme=aura)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=200&section=footer)
 </div>
 
 
