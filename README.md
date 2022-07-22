@@ -21,9 +21,9 @@
 ## 😎 Profile 🔥
 (아직 공사중...)<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ness731&theme=github_dark)](https://github.com/Ness731/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ness731&show_icons=true&theme=github_dark)
-
-
+<img src="https://raw.githubusercontent.com/Ness731/github-stats-transparent/output/generated/overview.svg">
+<img src="https://raw.githubusercontent.com/Ness731/github-stats-transparent/output/generated/languages.svg">
+                                                                                                           
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=footer)
 </div>
 
