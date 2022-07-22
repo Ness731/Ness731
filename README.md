@@ -1,9 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-## 🚀 SNS 👽
-(아직 공사중...)<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20&descAlignY=51&descAlign=62)
+## 🚀 PROFILE 👽
+### NESS
+:mortar_board: Kyonggi Univercity, Republic of Korea
 
+<br><br>
 
 ## 📚 STACKS ✏️
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
@@ -19,10 +21,10 @@
 ## 😎 Profile 🔥
 (아직 공사중...)<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ness731&theme=aura)](https://github.com/Ness731/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ness731&show_icons=true&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ness731&theme=github_dark)](https://github.com/Ness731/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ness731&show_icons=true&theme=github_dark)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=footer)
 </div>
 
 
