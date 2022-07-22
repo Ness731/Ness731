@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Pearl's%20GitHub%20&descAlignY=51&descAlign=62)
 
 ## 😎 NESS 🔥
-🎓 _Kyonggi Univercity, Republic of Korea_
-  
+🎓 _Kyonggi Univercity, Republic of Korea_<br>
+💻 _Kyonggi Univercity AI-Lab_
 <br><br>
 
 ## 📚 STACKS ✏️
