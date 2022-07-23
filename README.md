@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
 <br> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Auto-3bad6f?style=for-the-badge&logo=Android Auto&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3bad6f?style=for-the-badge&logo=Android Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <br><br>
 
