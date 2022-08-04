@@ -4,7 +4,9 @@
 
 ## 😎 NESS 🔥
 🎓 _Kyonggi University, Republic of Korea_<br>
-💻 _Kyonggi University AI-Lab_
+💻 _Kyonggi University AI-Lab_<br>
+
+<a href="https://foamy-lizard-c52.notion.site/Pearl-s-Homepage-05baebdf48054fcdbbb301e86d5d1436"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
 <br>
 
 <br>
