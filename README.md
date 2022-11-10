@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ness's%20GitHub%20&descAlignY=51&descAlign=62)
 
-## 😎 NESS 🔥
+## 😎 Jinju Jeong 🔥
   
 👩‍🎓 ****Education****
 
