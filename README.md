@@ -3,12 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ness's%20GitHub%20&descAlignY=51&descAlign=62)
 
 ## 😎 NESS 🔥
-🎓 _Kyonggi University, Republic of Korea_<br>
-💻 _Kyonggi University AI-Lab_<br>
+  
+👩‍🎓 ****Education****
+
+B.S. in Department of Computer Science, Kyonggi University, Korea
+
+👀 ****Interests****
+
+Data Analysis, Deep Learning, Back-end develop
 
 <a href="https://foamy-lizard-c52.notion.site/Pearl-s-Homepage-05baebdf48054fcdbbb301e86d5d1436"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a><br>
-<br>
-
 <br>
 
 <br>
