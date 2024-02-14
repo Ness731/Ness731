@@ -8,7 +8,7 @@
 <h3>💻 Position</h3>
 <p>Full-stack develop
 <h3>📋 Portfolio</h3>
-<p><a href="https://www.notion.so/Ness-s-Portfolio-6e076076d6b84d0e8eaeb64358d61017?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<p><a href="https://brave-anemone-be5.notion.site/JINJU-JEONG-6de16651029048219068564ab2cdeaaa?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
                                                                                                            
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=150&section=footer)
 </div>
